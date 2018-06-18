@@ -5,7 +5,9 @@ Add "profiles" for settings (ie, normal driving, track, drifting, drag, etc)
 in Debug mode, clean all other serial.print data so it's just RPM output in all instances 
 Add more brightness resolution, or make existing scale more dramatic
 Add a run-time "hour meter" option in the menu. Test to see if an RTC chip is needed. 
-
+Add functionality for a different warning light input, similair to dimmer (ie, low oil pressure, temperature, etc). Customizable in menu. 
+Increase (or make option) the number of LED segments (ie, 3 colors to 4 colors). User defined? 
 
 HARDWARE
 Test the pads on the large electrolytic cap. May need to adjust trace on PCB
+Investigate floating dimmer circuit causes intermittent blinking while dimmer off
